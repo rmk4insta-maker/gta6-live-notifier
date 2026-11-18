@@ -1,10 +1,10 @@
 {
   "ishowspeed": {
-    "is_live": false,
-    "last_url": ""
+    "is_live": true,
+    "last_url": "https://www.youtube.com/watch?v=Mq8xMVmovRk"
   },
   "kaicenat": {
-    "is_live": false,
-    "last_url": ""
+    "is_live": true,
+    "last_url": "https://www.twitch.tv/kaicenat"
   }
 }
